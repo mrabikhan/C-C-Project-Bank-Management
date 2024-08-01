@@ -1,0 +1,14 @@
+Bank Management System
+This project is based on the concepts of functional programming and
+OOP concepts in C++ programming language.
+
+Features:
+Online Bank Transactions
+   - Cash deposite / withdrawl
+   - Get Loan
+   - Unitility bills payment
+   - Automobile financing
+File Handling
+   - Withdrawl recipts
+   - Utility bills recipts
+   - Loan recipts  
